@@ -2,7 +2,7 @@
 
 An Email Spam Classifier built using machine learning to distinguish between spam and legitimate (ham) emails. This project showcases a typical text classification pipeline including data preprocessing, feature extraction, model training, evaluation, and deployment.
 
-🚀 **Live :** [https://email-spam-predictor.onrender.com](https://email-spam-predictor.onrender.com)
+🚀 **Live :** [Email Spam Classifier](https://email-spam-predictor.onrender.com)
 
 ## 🚀 Features
 
