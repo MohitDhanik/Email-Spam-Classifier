@@ -1,6 +1,8 @@
+import nltk
+nltk.download('punkt')
+nltk.data.path.append("./nltk_data")
 from flask import Flask, render_template, request
 import pickle
-import nltk
 import string
 from nltk.stem.porter import PorterStemmer
 from nltk.corpus import stopwords
