@@ -10,6 +10,8 @@ COPY . .
 # Install required Python packages
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
+RUN python -m nltk.downloader punkt
+
 
 # Expose port 8000 for the web service
 EXPOSE 8000
