@@ -12,15 +12,15 @@ An Email Spam Classifier built using machine learning to distinguish between spa
 - Evaluates model performance using metrics like accuracy, precision.
 - Provides a simple interface for classifying custom input emails
 
-## 🧠 Technologies Used
+## 🧠 Tools Used
 
 - Python 🐍
 - scikit-learn
 - pandas, NumPy
-- NLTK / spaCy (for text processing)
+- NLTK (for text processing)
 - Matplotlib / Seaborn (for visualization)
 - Flask (for optional UI deployment)
-- Render (for deployment)
+- Render (for deployment on the server)
 
 ## 📊 Dataset
 
